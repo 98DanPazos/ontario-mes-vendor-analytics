@@ -1,0 +1,63 @@
+{
+  "seed": 42,
+  "issue_1_vendor_deterioration": {
+    "vendor_id": "V01",
+    "regions": [
+      "NEA",
+      "NWE"
+    ],
+    "starts": "2025-12-01",
+    "description": "On-time probability slides linearly from 95.5% to ~72.5% over 6 months, then holds."
+  },
+  "issue_2_winter_confounder": {
+    "regions": [
+      "NEA",
+      "NWE"
+    ],
+    "months": [
+      "Jan",
+      "Feb"
+    ],
+    "effect": "-6 pts on-time for ALL vendors"
+  },
+  "issue_3_recurring_stockout": {
+    "sku": "MES-0001",
+    "product_name": "Foam dressing - variant A",
+    "windows": [
+      [
+        "2025-03-03",
+        "2025-03-28"
+      ],
+      [
+        "2025-09-08",
+        "2025-10-03"
+      ],
+      [
+        "2026-04-06",
+        "2026-05-01"
+      ]
+    ],
+    "backorder_probability_in_window": 0.65
+  },
+  "issue_4_off_formulary_drift": {
+    "region": "WES",
+    "from": "2025-07",
+    "rate_start": 0.05,
+    "rate_end": 0.14
+  },
+  "issue_5_data_quality": {
+    "missing_delivery_confirmations": 773,
+    "invoice_qty_overbilled_lines": 1025,
+    "invoice_price_variance_lines": 513,
+    "price_variance_concentrated_on": "V06",
+    "duplicate_invoices": 256
+  },
+  "true_vendor_baseline_on_time": {
+    "V01": 0.955,
+    "V02": 0.965,
+    "V03": 0.935,
+    "V04": 0.945,
+    "V05": 0.97,
+    "V06": 0.925
+  }
+}

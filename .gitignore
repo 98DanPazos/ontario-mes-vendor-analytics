@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Office / Power BI temp files
+~$*
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+vendor_id,vendor_name,categories,regions_served,sla_on_time_target,sla_fill_rate_target
+V01,Northbridge Medical Supply,Wound Care|Ostomy|Incontinence,ALL,0.95,0.98
+V02,Lakeview Health Products,Wound Care|Incontinence,TOR|CEN|EAS|WES,0.95,0.98
+V03,Algonquin Home Equipment,Mobility Aids,ALL,0.95,0.98
+V04,Pinecrest Respiratory Care,Respiratory,ALL,0.95,0.98
+V05,Maplewood Clinical Nutrition,Enteral Nutrition,ALL,0.95,0.98
+V06,CareLink Distribution,Wound Care|Ostomy|Mobility Aids,TOR|CEN|WES,0.95,0.98

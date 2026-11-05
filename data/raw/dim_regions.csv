@@ -1,0 +1,7 @@
+region_id,region_name,demand_share,sla_days
+TOR,Toronto,0.18,2
+CEN,Central,0.32,2
+EAS,East,0.22,2
+WES,West,0.2,2
+NEA,North East,0.055,3
+NWE,North West,0.025,4

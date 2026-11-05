@@ -1,0 +1,201 @@
+sku,product_name,category,subtype,on_formulary,contracted_vendor_id,list_price,contract_unit_price
+MES-0001,Foam dressing - variant A,Wound Care,Foam dressing,True,V06,35.73,32.38
+MES-0002,Alginate dressing - variant A,Wound Care,Alginate dressing,True,V06,44.0,38.45
+MES-0003,Hydrocolloid dressing - variant A,Wound Care,Hydrocolloid dressing,True,V02,19.2,16.46
+MES-0004,Silver antimicrobial dressing - variant A,Wound Care,Silver antimicrobial dressing,True,V01,13.32,11.92
+MES-0005,Transparent film - variant A,Wound Care,Transparent film,True,V06,35.08,32.08
+MES-0006,Gauze pad - variant A,Wound Care,Gauze pad,True,V01,11.98,10.82
+MES-0007,Compression bandage - variant A,Wound Care,Compression bandage,True,V01,34.54,29.47
+MES-0008,Negative pressure canister - variant A,Wound Care,Negative pressure canister,True,V01,11.77,11.03
+MES-0009,Foam dressing - variant B,Wound Care,Foam dressing,True,V02,21.92,19.0
+MES-0010,Alginate dressing - variant B,Wound Care,Alginate dressing,True,V01,37.0,33.72
+MES-0011,Hydrocolloid dressing - variant B,Wound Care,Hydrocolloid dressing,True,V06,12.2,11.58
+MES-0012,Silver antimicrobial dressing - variant B,Wound Care,Silver antimicrobial dressing,True,V02,36.01,32.56
+MES-0013,Transparent film - variant B,Wound Care,Transparent film,True,V02,31.4,28.35
+MES-0014,Gauze pad - variant B,Wound Care,Gauze pad,True,V01,26.7,23.87
+MES-0015,Compression bandage - variant B,Wound Care,Compression bandage,True,V06,12.8,11.64
+MES-0016,Negative pressure canister - variant B,Wound Care,Negative pressure canister,True,V06,31.14,27.85
+MES-0017,Foam dressing - variant C,Wound Care,Foam dressing,True,V01,37.37,34.88
+MES-0018,Alginate dressing - variant C,Wound Care,Alginate dressing,True,V02,22.94,21.42
+MES-0019,Hydrocolloid dressing - variant C,Wound Care,Hydrocolloid dressing,True,V01,22.29,20.33
+MES-0020,Silver antimicrobial dressing - variant C,Wound Care,Silver antimicrobial dressing,True,V06,7.59,7.12
+MES-0021,Transparent film - variant C,Wound Care,Transparent film,True,V06,14.9,12.71
+MES-0022,Gauze pad - variant C,Wound Care,Gauze pad,True,V06,15.16,14.26
+MES-0023,Compression bandage - variant C,Wound Care,Compression bandage,True,V01,16.54,14.75
+MES-0024,Negative pressure canister - variant C,Wound Care,Negative pressure canister,True,V02,33.5,30.38
+MES-0025,Foam dressing - variant D,Wound Care,Foam dressing,True,V01,7.46,6.78
+MES-0026,Alginate dressing - variant D,Wound Care,Alginate dressing,True,V02,9.93,9.33
+MES-0027,Hydrocolloid dressing - variant D,Wound Care,Hydrocolloid dressing,True,V02,27.82,25.46
+MES-0028,Silver antimicrobial dressing - variant D,Wound Care,Silver antimicrobial dressing,True,V01,23.77,20.72
+MES-0029,Transparent film - variant D,Wound Care,Transparent film,True,V01,42.45,37.9
+MES-0030,Gauze pad - variant D,Wound Care,Gauze pad,True,V01,25.35,22.97
+MES-0031,Compression bandage - variant D,Wound Care,Compression bandage,True,V01,9.75,8.72
+MES-0032,Negative pressure canister - variant D,Wound Care,Negative pressure canister,True,V06,31.04,27.23
+MES-0033,Foam dressing - variant E,Wound Care,Foam dressing,True,V02,13.44,12.72
+MES-0034,Alginate dressing - variant E,Wound Care,Alginate dressing,True,V06,37.14,34.11
+MES-0035,Hydrocolloid dressing - variant E,Wound Care,Hydrocolloid dressing,True,V01,14.49,12.41
+MES-0036,Silver antimicrobial dressing - variant E,Wound Care,Silver antimicrobial dressing,True,V02,44.69,38.47
+MES-0037,Transparent film - variant E,Wound Care,Transparent film,True,V06,25.27,23.21
+MES-0038,Gauze pad - variant E,Wound Care,Gauze pad,True,V01,7.87,6.89
+MES-0039,Compression bandage - variant E,Wound Care,Compression bandage,True,V01,9.03,7.83
+MES-0040,Negative pressure canister - variant E,Wound Care,Negative pressure canister,True,V01,39.86,37.08
+MES-0041,Foam dressing - variant F,Wound Care,Foam dressing,True,V01,24.53,22.95
+MES-0042,Alginate dressing - variant F,Wound Care,Alginate dressing,True,V02,31.78,29.8
+MES-0043,Hydrocolloid dressing - variant F,Wound Care,Hydrocolloid dressing,True,V02,12.19,10.6
+MES-0044,Silver antimicrobial dressing - variant F,Wound Care,Silver antimicrobial dressing,True,V01,9.07,7.78
+MES-0045,Transparent film - variant F,Wound Care,Transparent film,False,V01,31.18,43.31
+MES-0046,Gauze pad - variant F,Wound Care,Gauze pad,False,V01,8.34,9.88
+MES-0047,Compression bandage - variant F,Wound Care,Compression bandage,False,V01,23.16,31.18
+MES-0048,Negative pressure canister - variant F,Wound Care,Negative pressure canister,False,V02,36.67,44.3
+MES-0049,Foam dressing - variant G,Wound Care,Foam dressing,False,V01,28.73,36.0
+MES-0050,Alginate dressing - variant G,Wound Care,Alginate dressing,False,V01,39.57,50.0
+MES-0051,Adult brief (case) - variant A,Incontinence,Adult brief (case),True,V01,64.54,60.63
+MES-0052,Protective underwear (case) - variant A,Incontinence,Protective underwear (case),True,V01,65.01,59.74
+MES-0053,Underpad (case) - variant A,Incontinence,Underpad (case),True,V01,34.23,31.99
+MES-0054,"Catheter, intermittent - variant A",Incontinence,"Catheter, intermittent",True,V01,27.95,26.4
+MES-0055,Urinary drainage bag - variant A,Incontinence,Urinary drainage bag,True,V02,36.13,32.5
+MES-0056,Adult brief (case) - variant B,Incontinence,Adult brief (case),True,V01,28.35,26.26
+MES-0057,Protective underwear (case) - variant B,Incontinence,Protective underwear (case),True,V01,20.81,18.99
+MES-0058,Underpad (case) - variant B,Incontinence,Underpad (case),True,V01,20.96,17.97
+MES-0059,"Catheter, intermittent - variant B",Incontinence,"Catheter, intermittent",True,V02,73.84,64.23
+MES-0060,Urinary drainage bag - variant B,Incontinence,Urinary drainage bag,True,V01,25.67,23.01
+MES-0061,Adult brief (case) - variant C,Incontinence,Adult brief (case),True,V01,39.95,35.4
+MES-0062,Protective underwear (case) - variant C,Incontinence,Protective underwear (case),True,V01,41.76,38.7
+MES-0063,Underpad (case) - variant C,Incontinence,Underpad (case),True,V01,39.63,34.93
+MES-0064,"Catheter, intermittent - variant C",Incontinence,"Catheter, intermittent",True,V01,45.41,41.65
+MES-0065,Urinary drainage bag - variant C,Incontinence,Urinary drainage bag,True,V01,63.85,57.26
+MES-0066,Adult brief (case) - variant D,Incontinence,Adult brief (case),True,V02,29.54,26.01
+MES-0067,Protective underwear (case) - variant D,Incontinence,Protective underwear (case),True,V01,23.42,20.55
+MES-0068,Underpad (case) - variant D,Incontinence,Underpad (case),True,V02,51.84,45.19
+MES-0069,"Catheter, intermittent - variant D",Incontinence,"Catheter, intermittent",True,V01,51.63,48.56
+MES-0070,Urinary drainage bag - variant D,Incontinence,Urinary drainage bag,True,V01,50.63,45.74
+MES-0071,Adult brief (case) - variant E,Incontinence,Adult brief (case),True,V02,46.05,40.99
+MES-0072,Protective underwear (case) - variant E,Incontinence,Protective underwear (case),True,V01,23.0,20.34
+MES-0073,Underpad (case) - variant E,Incontinence,Underpad (case),True,V02,37.02,31.84
+MES-0074,"Catheter, intermittent - variant E",Incontinence,"Catheter, intermittent",True,V01,35.92,33.56
+MES-0075,Urinary drainage bag - variant E,Incontinence,Urinary drainage bag,True,V01,39.85,34.95
+MES-0076,Adult brief (case) - variant F,Incontinence,Adult brief (case),True,V02,45.32,41.35
+MES-0077,Protective underwear (case) - variant F,Incontinence,Protective underwear (case),False,V01,24.75,33.73
+MES-0078,Underpad (case) - variant F,Incontinence,Underpad (case),False,V01,57.11,65.85
+MES-0079,"Catheter, intermittent - variant F",Incontinence,"Catheter, intermittent",False,V01,44.14,55.64
+MES-0080,Urinary drainage bag - variant F,Incontinence,Urinary drainage bag,False,V02,24.3,34.0
+MES-0081,One-piece pouch - variant A,Ostomy,One-piece pouch,True,V01,9.62,8.18
+MES-0082,Two-piece flange - variant A,Ostomy,Two-piece flange,True,V01,36.5,34.57
+MES-0083,Two-piece pouch - variant A,Ostomy,Two-piece pouch,True,V01,12.74,10.94
+MES-0084,Barrier ring - variant A,Ostomy,Barrier ring,True,V06,7.76,6.9
+MES-0085,Stoma paste - variant A,Ostomy,Stoma paste,True,V06,7.95,6.92
+MES-0086,One-piece pouch - variant B,Ostomy,One-piece pouch,True,V01,34.49,32.63
+MES-0087,Two-piece flange - variant B,Ostomy,Two-piece flange,True,V06,31.34,27.8
+MES-0088,Two-piece pouch - variant B,Ostomy,Two-piece pouch,True,V06,12.56,11.59
+MES-0089,Barrier ring - variant B,Ostomy,Barrier ring,True,V06,7.44,6.41
+MES-0090,Stoma paste - variant B,Ostomy,Stoma paste,True,V01,12.24,10.43
+MES-0091,One-piece pouch - variant C,Ostomy,One-piece pouch,True,V06,25.46,23.82
+MES-0092,Two-piece flange - variant C,Ostomy,Two-piece flange,True,V06,29.79,26.37
+MES-0093,Two-piece pouch - variant C,Ostomy,Two-piece pouch,True,V01,19.74,17.82
+MES-0094,Barrier ring - variant C,Ostomy,Barrier ring,True,V01,26.77,23.73
+MES-0095,Stoma paste - variant C,Ostomy,Stoma paste,True,V01,26.0,23.88
+MES-0096,One-piece pouch - variant D,Ostomy,One-piece pouch,True,V01,13.67,12.2
+MES-0097,Two-piece flange - variant D,Ostomy,Two-piece flange,True,V06,28.18,25.88
+MES-0098,Two-piece pouch - variant D,Ostomy,Two-piece pouch,True,V01,27.28,24.93
+MES-0099,Barrier ring - variant D,Ostomy,Barrier ring,True,V01,37.32,33.57
+MES-0100,Stoma paste - variant D,Ostomy,Stoma paste,True,V01,34.47,31.04
+MES-0101,One-piece pouch - variant E,Ostomy,One-piece pouch,True,V01,7.89,7.27
+MES-0102,Two-piece flange - variant E,Ostomy,Two-piece flange,True,V06,31.25,29.64
+MES-0103,Two-piece pouch - variant E,Ostomy,Two-piece pouch,True,V01,11.22,9.98
+MES-0104,Barrier ring - variant E,Ostomy,Barrier ring,True,V01,39.85,34.78
+MES-0105,Stoma paste - variant E,Ostomy,Stoma paste,True,V01,19.19,17.0
+MES-0106,One-piece pouch - variant F,Ostomy,One-piece pouch,True,V06,11.57,10.8
+MES-0107,Two-piece flange - variant F,Ostomy,Two-piece flange,False,V01,34.53,48.26
+MES-0108,Two-piece pouch - variant F,Ostomy,Two-piece pouch,False,V01,8.72,11.67
+MES-0109,Barrier ring - variant F,Ostomy,Barrier ring,False,V01,12.15,16.73
+MES-0110,Stoma paste - variant F,Ostomy,Stoma paste,False,V01,22.67,29.39
+MES-0111,Standard formula (case) - variant A,Enteral Nutrition,Standard formula (case),True,V05,122.01,108.13
+MES-0112,High-protein formula (case) - variant A,Enteral Nutrition,High-protein formula (case),True,V05,31.68,28.93
+MES-0113,Feeding set - variant A,Enteral Nutrition,Feeding set,True,V05,80.5,70.29
+MES-0114,Extension set - variant A,Enteral Nutrition,Extension set,True,V05,92.52,80.03
+MES-0115,Enteral syringe (box) - variant A,Enteral Nutrition,Enteral syringe (box),True,V05,37.07,33.74
+MES-0116,Standard formula (case) - variant B,Enteral Nutrition,Standard formula (case),True,V05,63.97,59.55
+MES-0117,High-protein formula (case) - variant B,Enteral Nutrition,High-protein formula (case),True,V05,60.37,53.74
+MES-0118,Feeding set - variant B,Enteral Nutrition,Feeding set,True,V05,97.88,83.38
+MES-0119,Extension set - variant B,Enteral Nutrition,Extension set,True,V05,128.88,113.15
+MES-0120,Enteral syringe (box) - variant B,Enteral Nutrition,Enteral syringe (box),True,V05,38.12,33.42
+MES-0121,Standard formula (case) - variant C,Enteral Nutrition,Standard formula (case),True,V05,136.53,116.26
+MES-0122,High-protein formula (case) - variant C,Enteral Nutrition,High-protein formula (case),True,V05,64.85,60.8
+MES-0123,Feeding set - variant C,Enteral Nutrition,Feeding set,True,V05,138.34,124.99
+MES-0124,Extension set - variant C,Enteral Nutrition,Extension set,True,V05,34.75,31.08
+MES-0125,Enteral syringe (box) - variant C,Enteral Nutrition,Enteral syringe (box),True,V05,29.25,26.7
+MES-0126,Standard formula (case) - variant D,Enteral Nutrition,Standard formula (case),True,V05,107.02,93.39
+MES-0127,High-protein formula (case) - variant D,Enteral Nutrition,High-protein formula (case),True,V05,30.63,28.38
+MES-0128,Feeding set - variant D,Enteral Nutrition,Feeding set,True,V05,28.4,25.84
+MES-0129,Extension set - variant D,Enteral Nutrition,Extension set,True,V05,123.07,112.63
+MES-0130,Enteral syringe (box) - variant D,Enteral Nutrition,Enteral syringe (box),True,V05,70.65,65.18
+MES-0131,Standard formula (case) - variant E,Enteral Nutrition,Standard formula (case),True,V05,117.85,100.19
+MES-0132,High-protein formula (case) - variant E,Enteral Nutrition,High-protein formula (case),True,V05,91.11,77.47
+MES-0133,Feeding set - variant E,Enteral Nutrition,Feeding set,False,V05,130.26,165.98
+MES-0134,Extension set - variant E,Enteral Nutrition,Extension set,False,V05,48.23,55.68
+MES-0135,Enteral syringe (box) - variant E,Enteral Nutrition,Enteral syringe (box),False,V05,73.34,101.93
+MES-0136,Oxygen tubing - variant A,Respiratory,Oxygen tubing,True,V04,342.4,317.23
+MES-0137,Nasal cannula - variant A,Respiratory,Nasal cannula,True,V04,285.95,254.76
+MES-0138,Nebulizer kit - variant A,Respiratory,Nebulizer kit,True,V04,132.71,124.01
+MES-0139,Suction catheter (box) - variant A,Respiratory,Suction catheter (box),True,V04,175.01,157.92
+MES-0140,CPAP mask - variant A,Respiratory,CPAP mask,True,V04,344.43,300.08
+MES-0141,Humidifier chamber - variant A,Respiratory,Humidifier chamber,True,V04,253.32,216.45
+MES-0142,Oxygen tubing - variant B,Respiratory,Oxygen tubing,True,V04,38.92,35.2
+MES-0143,Nasal cannula - variant B,Respiratory,Nasal cannula,True,V04,37.09,32.65
+MES-0144,Nebulizer kit - variant B,Respiratory,Nebulizer kit,True,V04,167.06,158.68
+MES-0145,Suction catheter (box) - variant B,Respiratory,Suction catheter (box),True,V04,136.58,123.86
+MES-0146,CPAP mask - variant B,Respiratory,CPAP mask,True,V04,132.71,122.86
+MES-0147,Humidifier chamber - variant B,Respiratory,Humidifier chamber,True,V04,135.72,116.31
+MES-0148,Oxygen tubing - variant C,Respiratory,Oxygen tubing,True,V04,69.92,66.09
+MES-0149,Nasal cannula - variant C,Respiratory,Nasal cannula,True,V04,55.38,49.18
+MES-0150,Nebulizer kit - variant C,Respiratory,Nebulizer kit,True,V04,325.04,308.63
+MES-0151,Suction catheter (box) - variant C,Respiratory,Suction catheter (box),True,V04,297.12,256.85
+MES-0152,CPAP mask - variant C,Respiratory,CPAP mask,True,V04,235.25,200.32
+MES-0153,Humidifier chamber - variant C,Respiratory,Humidifier chamber,True,V04,306.71,272.95
+MES-0154,Oxygen tubing - variant D,Respiratory,Oxygen tubing,True,V04,43.51,41.2
+MES-0155,Nasal cannula - variant D,Respiratory,Nasal cannula,True,V04,279.69,245.9
+MES-0156,Nebulizer kit - variant D,Respiratory,Nebulizer kit,True,V04,231.75,217.24
+MES-0157,Suction catheter (box) - variant D,Respiratory,Suction catheter (box),True,V04,200.16,170.3
+MES-0158,CPAP mask - variant D,Respiratory,CPAP mask,True,V04,61.32,52.75
+MES-0159,Humidifier chamber - variant D,Respiratory,Humidifier chamber,True,V04,114.71,108.39
+MES-0160,Oxygen tubing - variant E,Respiratory,Oxygen tubing,True,V04,320.23,303.64
+MES-0161,Nasal cannula - variant E,Respiratory,Nasal cannula,True,V04,107.59,95.64
+MES-0162,Nebulizer kit - variant E,Respiratory,Nebulizer kit,False,V04,279.91,361.57
+MES-0163,Suction catheter (box) - variant E,Respiratory,Suction catheter (box),False,V04,202.82,233.88
+MES-0164,CPAP mask - variant E,Respiratory,CPAP mask,False,V04,49.34,67.71
+MES-0165,Humidifier chamber - variant E,Respiratory,Humidifier chamber,False,V04,365.97,437.19
+MES-0166,Walker - variant A,Mobility Aids,Walker,True,V06,248.81,224.68
+MES-0167,Rollator - variant A,Mobility Aids,Rollator,True,V06,710.71,619.53
+MES-0168,Commode chair - variant A,Mobility Aids,Commode chair,True,V03,830.36,722.57
+MES-0169,Bath bench - variant A,Mobility Aids,Bath bench,True,V03,80.59,68.67
+MES-0170,Transfer board - variant A,Mobility Aids,Transfer board,True,V06,411.22,377.54
+MES-0171,Wheelchair cushion - variant A,Mobility Aids,Wheelchair cushion,True,V03,595.58,510.09
+MES-0172,Raised toilet seat - variant A,Mobility Aids,Raised toilet seat,True,V03,410.76,384.84
+MES-0173,Walker - variant B,Mobility Aids,Walker,True,V03,909.86,842.2
+MES-0174,Rollator - variant B,Mobility Aids,Rollator,True,V03,307.52,285.93
+MES-0175,Commode chair - variant B,Mobility Aids,Commode chair,True,V03,290.9,275.04
+MES-0176,Bath bench - variant B,Mobility Aids,Bath bench,True,V03,501.0,470.4
+MES-0177,Transfer board - variant B,Mobility Aids,Transfer board,True,V06,840.27,722.49
+MES-0178,Wheelchair cushion - variant B,Mobility Aids,Wheelchair cushion,True,V03,330.98,296.13
+MES-0179,Raised toilet seat - variant B,Mobility Aids,Raised toilet seat,True,V03,542.7,506.59
+MES-0180,Walker - variant C,Mobility Aids,Walker,True,V03,579.96,508.33
+MES-0181,Rollator - variant C,Mobility Aids,Rollator,True,V03,736.41,642.71
+MES-0182,Commode chair - variant C,Mobility Aids,Commode chair,True,V03,857.55,806.06
+MES-0183,Bath bench - variant C,Mobility Aids,Bath bench,True,V03,428.08,387.42
+MES-0184,Transfer board - variant C,Mobility Aids,Transfer board,True,V06,838.37,768.0
+MES-0185,Wheelchair cushion - variant C,Mobility Aids,Wheelchair cushion,True,V06,203.52,174.21
+MES-0186,Raised toilet seat - variant C,Mobility Aids,Raised toilet seat,True,V06,496.64,445.5
+MES-0187,Walker - variant D,Mobility Aids,Walker,True,V03,171.84,146.88
+MES-0188,Rollator - variant D,Mobility Aids,Rollator,True,V03,285.33,270.21
+MES-0189,Commode chair - variant D,Mobility Aids,Commode chair,True,V03,601.23,543.21
+MES-0190,Bath bench - variant D,Mobility Aids,Bath bench,True,V03,196.06,168.21
+MES-0191,Transfer board - variant D,Mobility Aids,Transfer board,True,V06,767.07,680.95
+MES-0192,Wheelchair cushion - variant D,Mobility Aids,Wheelchair cushion,True,V06,882.17,799.42
+MES-0193,Raised toilet seat - variant D,Mobility Aids,Raised toilet seat,True,V03,115.24,104.2
+MES-0194,Walker - variant E,Mobility Aids,Walker,True,V03,409.71,351.46
+MES-0195,Rollator - variant E,Mobility Aids,Rollator,True,V03,647.36,576.17
+MES-0196,Commode chair - variant E,Mobility Aids,Commode chair,True,V06,217.74,192.09
+MES-0197,Bath bench - variant E,Mobility Aids,Bath bench,False,V06,854.31,1142.56
+MES-0198,Transfer board - variant E,Mobility Aids,Transfer board,False,V03,329.21,456.58
+MES-0199,Wheelchair cushion - variant E,Mobility Aids,Wheelchair cushion,False,V06,560.02,744.8
+MES-0200,Raised toilet seat - variant E,Mobility Aids,Raised toilet seat,False,V03,635.89,785.7
